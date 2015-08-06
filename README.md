@@ -12,5 +12,5 @@ Dodatkowe funkcjonalności dla https://forum.warsztat.io
 ##### Jak zainstalować lokalnie
 
 - Wejdź do katalogu ```/plugins```
-- git clone git@github.com:gamedevpl/gamedev_discourse_plugin.git
+- ```git clone git@github.com:gamedevpl/gamedev_discourse_plugin.git```
 - zrestartuj serwer
