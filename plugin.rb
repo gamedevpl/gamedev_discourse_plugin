@@ -4,5 +4,5 @@
 # authors: Grzegorz Tańczyk
 
 register_custom_html(extraNavItem: %(
-  <a href="http://www.gamedev.pl" style="display: inline-block" title="Serwis o programowaniu gier - Gamedev.pl">Gamedev.pl</a>
+  <a href="https://www.gamedev.pl" style="display: inline-block" title="Serwis o programowaniu gier - Gamedev.pl">Gamedev.pl</a>
 ))
